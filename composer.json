@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/vkontakte",
+    "name": "oldsocialiteproviders/vkontakte",
     "description": "VKontakte OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
